@@ -12,3 +12,7 @@ Purpose of this repository:
 Current focus:
 - GitHub basics
 - Project structure
+Progress Log:
+- Repository created
+- Folder structure added
+- Learning GitHub fundamentals
